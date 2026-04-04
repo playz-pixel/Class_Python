@@ -1,0 +1,9 @@
+Bài 4: Viết chương trình nhập một số nguyên dương và kiểm tra xem số đó có chia hết cho 2 hoặc cho 3 hoặc cả hai hay không?
+
+Bài 5: Viết chương trình giải phương trình bậc 2: a*x*x + b*x + c = 0. Trong đó 3 tham số a,b,c được nhập từ bàn phím. Sử dụng thư viện math và hàm tính căn sqrt().
+
+Bài 6: Viết chương trình nhập vào một danh sách các số nguyên, sau đó tìm và in ra số lớn nhất, số nhỏ nhất và tính tổng các phần tử trong danh sách.
+
+Bài 7: Viết chương trình kiểm tra một chuỗi có phải là palindrome không (đọc xuôi và đọc ngược đều giống nhau). Ví dụ: "racecar", "madam".
+
+Bài 8: In ra HelloWork bằng code Python?
