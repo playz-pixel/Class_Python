@@ -1,0 +1,10 @@
+_diems = [9,10,4,6,7,8]
+#_diems.append(5)
+#print(list(_diems)[-3])
+#print(min(_diems))
+#print(max(_diems))
+#print(len(_diems))
+#print(_diems [1:4])
+#print(_diems [-5:-2])
+_diems.sort(reverse=True)
+print(_diems)

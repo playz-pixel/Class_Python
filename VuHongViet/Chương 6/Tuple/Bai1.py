@@ -1,0 +1,5 @@
+_tuple = ('a', 'b','d', 'e')
+tem_list = list(_tuple)
+tem_list.insert(2, 'c')
+new_tuple = tuple(tem_list)
+print(f"tuple sau khi them phan tu: {new_tuple}")
